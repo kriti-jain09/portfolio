@@ -1,0 +1,44 @@
+body{
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+#h1{
+    font-family: 'Hachi Maru Pop', cursive;
+    color: rgb(21, 211, 211);
+    margin-top: -28px;
+    margin-bottom: 0px;
+    padding: 0%;
+    margin-right:67%;
+    font-weight: 600;
+    position: relative;
+}
+#glitch{
+    float: right;
+    height: 150px;
+    margin-top: -7.05%;
+}
+nav{
+    background-color: lightgray;
+}
+#wc{
+    color: gold;
+    margin-top: 0.5%;
+    font-size: 150%;
+    font-family: cursive;
+}
+.nav{
+    color:black;
+    padding-left: 1%;
+    position: relative;
+    font-weight: 300;
+}
+#home{
+    margin-left: 58%;
+}
+#h2{
+    color: hotpink;
+}
+#p2{
+    color: black;
+    background-color: lightgray;
+}
