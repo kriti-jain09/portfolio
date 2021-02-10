@@ -1,13 +1,14 @@
 body{
     background-repeat: no-repeat;
     background-size:cover;
+    backdrop-filter: blur(1px);
 }
 #h1{
     font-family: 'Hachi Maru Pop', cursive;
     color: rgb(21, 211, 211);
     margin-top: -28px;
     margin-bottom: 0px;
-    padding: 10%;
+    padding: 0%;
     margin-right:67%;
     font-weight: 600;
     position: relative;
