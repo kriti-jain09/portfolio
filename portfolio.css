@@ -1,19 +1,37 @@
+body{
+    margin: 0%;
+}
 #sec1{
-    background-image:url("Gridfiti_AestheticColorPalettes_Synthwave.jpg") ;
+    background-image: url("Gridfiti_AestheticColorPalettes_Synthwave.jpg");
+    background-size: cover;
+    background-position: ;
+    /* background-attachment: fixed; */
+    background-repeat: no-repeat;
+    min-height: 100vh;
 }
 nav{
-    position: relative;
+    position: sticky;
     font-weight: 300;
+    background-color:rgb(252, 174, 122) ;
+    font-size: 40 px;
 }
 #kj{
     margin-top: 0%;
-    border-right: 500px;
    
 }
-h1{
+#hi{
     font-size: 150px;
     text-align: center;
-    position: inherit;
-    color: rgb(224, 72, 121);
-    
+    color: rgb(250, 185, 141);
+}
+/* #intro{
+    font-size: 50 px;
+    text-align: center;
+} */
+#sec2{
+    background-color: rgb(106, 40,78);
+
+}
+#sec3{
+    background-color: rgb(232,82,141);
 }
