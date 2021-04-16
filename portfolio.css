@@ -4,13 +4,11 @@ body{
 #sec1{
     background-image: url("Gridfiti_AestheticColorPalettes_Synthwave.jpg");
     background-size: cover;
-    background-position: ;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     background-repeat: no-repeat;
     min-height: 100vh;
 }
 nav{
-    position: sticky;
     font-weight: 300;
     background-color:rgb(252, 174, 122) ;
     font-size: 40 px;
@@ -23,11 +21,14 @@ nav{
     font-size: 150px;
     text-align: center;
     color: rgb(250, 185, 141);
+    text-shadow: 2px 2px black;
 }
-/* #intro{
-    font-size: 50 px;
+#intro{
+    font-size: 80px;
     text-align: center;
-} */
+    color: rgb(250, 185, 141);
+    text-shadow: 2px 2px black;
+}
 #sec2{
     background-color: rgb(106, 40,78);
 
