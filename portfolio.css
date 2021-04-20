@@ -15,6 +15,7 @@ nav {
   font-size: 40 px;
   position: fixed;
   top: 0%;
+  width: 100%;
 }
 ul {
   list-style-type: none;
@@ -23,7 +24,7 @@ ul {
   margin-right: 0%;
 }
 #home {
-  margin-left: 82vw;
+  margin-left: 86vw;
 }
 li {
   font-family: "Amatic SC", cursive;
@@ -40,6 +41,7 @@ li {
   text-shadow: 2px 2px rgb(232, 82, 141);
 }
 #hi {
+  padding-top: 70px;
   margin-top: 97px;
   font-size: 150px;
   text-align: center;
@@ -55,9 +57,11 @@ li {
 }
 #sec2 {
   background-color: rgb(129, 44, 94);
+ 
 }
 #am {
   margin-top: 5px;
+  padding-top: 65px;
   text-align: center;
   font-size: 50px;
   color: rgb(215, 190, 240);
@@ -82,4 +86,8 @@ li {
 #cont{
   text-align: center;
   margin-top: 5px;
+  font-size: 50px;
+}
+form{
+  text-align: center;
 }
