@@ -104,6 +104,9 @@ form{
 #git{
   font-size: 20px;
 }
+#submit{
+  margin-top: 50px;
+}
 #icons{
   margin-left: auto;
   margin-right: auto;
